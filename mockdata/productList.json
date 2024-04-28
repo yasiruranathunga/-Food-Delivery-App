@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgl8v_-_1s25Js13gEeVDxnJrmyqzsf6HjrWgrohlP7Q&s",
+      "name": "Chicken Pizza",
+      "brand": {
+        "name": "Pizza Hut"
+      },
+      "price": 5.99,
+      "rate":40
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9IV_lwh1s2WgWOod3umLEHsaTTTqS5ULV69Ew5iXJxw&s",
+      "name": "Chicken Fried Rice",
+      "brand": {
+        "name": "Kiaso"
+      },
+      "price": 5.84,
+      "rate":60
+    },
+    {
+      "id": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoN-kR1O08wdf1Q3C8PWlkSv6B5stSm_-QuiowXriSEA&s",
+      "name": "Burger",
+      "brand": {
+        "name": "KFC"
+      },
+      "price": 4.95,
+      "rate":80
+    },
+    {
+      "id": 4,
+      "image": "https://c8.alamy.com/comp/ARXG68/one-of-the-best-marketed-products-ever-produced-a-single-bottle-of-ARXG68.jpg",
+      "name": "Caffeine-Free",
+      "brand": {
+        "name": "Cocacola"
+      },
+      "price": 8.24,
+      "rate":20
+    },
+    {
+      "id": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTM2OPiU9Asj1tezD_XyJaPL0xBtVvPH2QD3jh47Umng&s",
+      "name": "Orange Zero",
+      "brand": {
+        "name": "Fanta"
+      },
+      "price": 3.11,
+      "rate":100
+    },
+  
+    {
+      "id": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbm1gWlOMEIwD4rqPad77vydd1oz95LqPVaklsUjbUg&s",
+      "name": "Lava Cake",
+      "brand": {
+        "name": "Pizza Hut"
+      },
+      "price": 16.87,
+      "rate":70
+    },
+    {
+      "id": 8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfUE0sBzNbK0rIU-wErNW9fbX8UvyZx3gbaAouzdNew&s",
+      "name": "Ice Cream",
+      "brand": {
+        "name": "Cargeels"
+      },
+      "price": 6.99,
+      "rate":40
+    },
+    {
+      "id": 9,
+      "image": "https://coconuts.co/wp-content/uploads/2018/06/kfc-wing.jpg",
+      "name": "Ice Cream",
+      "brand": {
+        "name": "KFC"
+      },
+      "price": 5.49,
+      "rate":90
+    }
+  ]
